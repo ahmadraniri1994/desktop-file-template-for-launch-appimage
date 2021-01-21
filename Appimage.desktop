@@ -1,0 +1,14 @@
+[Desktop Entry]
+
+#insert your Appimage name / your desired name!
+Name=
+
+#Optional comment
+Comment=This is an .desktop file to launch appimage file
+Terminal=false
+Type=Application
+
+#you can add your appimage icon here
+Icon=
+#insert your appimage path
+Exec=
